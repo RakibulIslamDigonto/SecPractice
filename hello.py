@@ -1,4 +1,7 @@
-print('hello this is main fail')
+print('hello this is third fail')
 
-def hello():
-    print('this is sec branch file')
+def thirBranch():
+    print('this is third branch file')
+
+def another():
+    print('another file from third')
